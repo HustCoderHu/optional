@@ -1,3 +1,3 @@
-module github.com/antihax/optional
+module github.com/HustCoderHu/optional
 
-go 1.13
+go 1.23
